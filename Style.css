@@ -1,0 +1,347 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(26, 24, 24);
+}
+.whole-container {
+  width: 80%;
+  height: 160vh;
+ 
+  background-color: #f1edea;
+
+  margin: 40px 40px 40px 40px;
+}
+
+/* Main header styling */
+.main-header {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  margin-top: 20px;
+  padding-top: 10px;
+  justify-content: space-around;
+}
+#online-logo-picture {
+  margin-left: 131px;
+}
+#flages {
+  margin-left: 224px;
+}
+#hand-carry {
+  width: 10px;
+  height: 10px;
+}
+#headings {
+  display: flex;
+}
+#Shopping-Bag {
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 10px;
+  font-weight: bold;
+}
+#Items {
+  font-size: 10px;
+  font-weight: bold;
+  color: #838280;
+}
+#horizental-line-1 img {
+  width: 100px;
+  margin-bottom: 5px;
+}
+#header-list {
+  display: flex;
+  margin-right: 224px;
+}
+#vertical-line-1 img {
+  width: 1.2px;
+  height: 90px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+#header-list ul li {
+  list-style-type: none;
+}
+#nav-bullet {
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+}
+#borders-1 {
+  width: 71%;
+  height: 3px;
+  margin-left: 98px;
+  margin-top: 55px;
+  background-color: #edd059;
+}
+
+/* Second Part Stylling Main baner */
+
+.main-menu {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  margin-top: 10px;
+}
+#main-list {
+  margin-left: 130px;
+}
+nav ul li {
+  list-style-type: none;
+  margin-top: 8px;
+}
+nav ul li img {
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+}
+#list-icon img {
+ 
+}
+#main-man-woman-picture img {
+  width: 540px;
+  height: 200px;
+  margin-left: 100px;
+}
+
+.main-menu {
+}
+#borders-2 {
+  width: 72%;
+  height: 3px;
+  margin-left: 90px;
+  margin-top: 6px;
+  background-color:#838280;
+}
+
+/* Thired Part Stylling */
+
+.container-patti {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  margin-top: 5px;
+}
+#browse-patti {
+  width: 24%;
+  height: 40px;
+  margin-left: 90px;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  background-color: #838280;
+}
+#feature-patti {
+  width: 30%;
+  height: 40px;
+  text-align: center;
+  margin-left: 3px;
+  padding-top: 10px;
+  color: white;
+  background-color: #edd059;
+}
+#you-like-patti {
+  width: 17%;
+  height: 40px;
+  text-align: center;
+  padding-top: 10px;
+  margin-left: 3px;
+  color: white;
+  background-color: #edd059;
+}
+
+/* Fourth Part Styling All Product */
+
+.all-products {
+  width: 100%;
+  height: 450px;
+  display: flex;
+  margin-top: 10px;
+}
+#browse-list {
+  margin-left: 90px;
+}
+#browse-list nav ul li {
+  font-size: 15px;
+}
+#browse-list nav ul li img {
+  margin-left: 50px;
+}
+#browse-brand-patti {
+  width: 108%;
+  height: 40px;
+  margin-top: 15px;
+  margin-right: 22px;
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+  background-color: #838280;
+}
+.select-brand {
+  width: 100%;
+  height: 20px;
+  margin-top: 20px;
+  margin-right: 50px;
+  display: flex;
+}
+#lets-go {
+  width: 25px;
+  height: 20px;
+  margin-left: 2px;
+  border: 1px solid #838280;
+  background-color: #edd059;
+}
+#product-sample {
+  margin-left: 30px;
+}
+.table-one {
+}
+.table-two {
+  margin-bottom: 20px;
+}
+.table-three {
+  margin-top: 100px;
+}
+.table-four {
+  margin-left: 100px;
+}
+.table-five {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.table-six {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+#row-size {
+  height: 150px;
+}
+#row-size img {
+  border: 1px solid #838280;
+  height: 120px;
+}
+#size-heading {
+  margin-left: 10px;
+}
+#table-data {
+  margin-left: 20px;
+}
+#prise-heading {
+  color: red;
+  margin-left: 10px;
+}
+#olive {
+  padding-right: 30px;
+  margin-left: 44px;
+  border: 1.5px solid #838280;
+}
+#male-1 {
+  margin-left: 55px;
+  padding-right: 32px;
+  border: 1.5px solid #838280;
+}
+#number-1 {
+  padding-right: 53px;
+  margin-left: 19px;
+  border: 1.5px solid #838280;
+}
+#color-1 {
+  margin-left: 10px;
+}
+#sex-1 {
+  margin-left: 10px;
+}
+#quantity-one {
+  margin-left: 10px;
+}
+.search-and-cart-patti {
+  margin-top: 10px;
+  margin-left: 10px;
+  display: flex;
+}
+#large-view p img {
+  width: 10px;
+  height: 10px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+#large-view {
+  width: 60%;
+  height: 20px;
+  font-size: 12px;
+  text-align: center;
+  margin-right: 3px;
+  color: white;
+  background-color: #838280;
+}
+#ad-cart {
+  width: 40%;
+  height: 20px;
+  font-size: 12px;
+  text-align: center;
+  padding-top: 2px;
+  background-color: #edd059;
+}
+/* Product Discount */
+
+#product-discount {
+  margin-top: 10px;
+  margin-right: 100px;
+}
+#row-one img {
+  border: 1px solid #838280;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+/* FIFTH PART */
+.our-brands {
+  width: 100%;
+  height: 100px;
+  margin-left: 90px;
+  /* margin-top: 10px; */
+}
+#new-style {
+  margin-left: 85px;
+}
+#new-style img {
+  width: 300px;
+  height: 80px;
+}
+#brands-name img{
+  width: 600px;
+  height: 80px;
+  margin-left: 5px;
+}
+.last-border {
+  width: 74%;
+  height: 5px;
+  margin-left: 92px;
+  background-color: #838280;
+}
+.main-footer {
+  margin-top: 20px;
+  margin-left: 200px;
+}
+#brands-logo{
+
+}
+#brands-pic{
+width: 60px;
+height: 40px;
+margin-right: 10px;
+}
+#footer-list a {
+  margin-left: 10px;
+}
+#footer-list a p{
+  margin-top: 10px;
+}
+#paragraph{
+  margin-top: 10px;
+  margin-left: 40px
+}
